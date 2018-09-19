@@ -1,4 +1,3 @@
-# based on https://github.com/gfx/docker-android-project/blob/master/Dockerfile
 FROM ubuntu:16.04
 
 MAINTAINER only <server888@yeah.net>
